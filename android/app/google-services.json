@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "835773367066",
+    "project_id": "house-of-pianos",
+    "storage_bucket": "house-of-pianos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835773367066:android:7e5d0d911e1c562d5222a3",
+        "android_client_info": {
+          "package_name": "com.pianohouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835773367066-209f7n62tmb38knlc6nejqtp7b9kbfft.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pianohouse",
+            "certificate_hash": "29059e9a067398fd8c465ae33d82bc515227a964"
+          }
+        },
+        {
+          "client_id": "835773367066-ppper09i0f45gahmmr2j4k213jpibitl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pianohouse",
+            "certificate_hash": "ef4370417eca6c02b64cd776cdc03e4bf224ab7f"
+          }
+        },
+        {
+          "client_id": "835773367066-fjcbsc9t5fjoir425benfh5s7gautbvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAczETUaeH27Nzt4zsIa5iR5VUzrDNzAdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835773367066-fjcbsc9t5fjoir425benfh5s7gautbvi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "835773367066-082aobfhk8mp33kb0dh99amnbfkv9spf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pianohouse"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,25 @@
+{
+  "provider": "apple_pay",
+  "data": {
+    "merchantIdentifier": "merchant.com.pianohouse.PianoHouseApp",
+    "displayName": "House of Pianos",
+    "merchantCapabilities": [
+      "3DS",
+      "debit",
+      "credit"
+    ],
+    "supportedNetworks": [
+      "amex",
+      "visa",
+      "masterCard"
+    ],
+    "countryCode": "AE",
+    "currencyCode": "AED",
+    "requiredShippingContactFields": [
+      "name",
+      "phone",
+      "email"
+    ],
+    "shippingContactEditingMode": "enabled"
+  }
+}

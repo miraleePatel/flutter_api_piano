@@ -1,0 +1,4 @@
+keyAlias=PianoApp
+keyPassword=PianoApp
+storePassword=PianoApp
+storeFile=/Volumes/Extra/Client project/Piano App/New/PianoApp/android/misc/PianoApp.jks

@@ -1,0 +1,103 @@
+name: piano_project
+
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.53+54
+
+environment:
+  sdk: '>=2.19.2 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # // Cupertino Icons // #
+  cupertino_icons: ^1.0.2
+
+  # // State Management // #
+  get: ^4.6.5
+
+  # // Responsive UI // #
+  sizer: ^2.0.15
+
+  # // Custom Date - Picker // #
+  table_calendar:
+  # table_calendar: ^3.0.9
+
+  # // Format Date & Time // #
+  intl:
+  # intl: ^0.18.0
+
+  # // Loading Management // #
+  flutter_easyloading: ^3.0.5
+
+  # // API calling // #
+  http: ^0.13.5
+  dio: ^5.1.1
+
+  # // Offline Storage // #
+  get_storage: ^2.1.1
+
+  # // Firebase Integration // #
+  firebase_core:
+  firebase_auth:
+  firebase_messaging:
+  flutter_local_notifications:
+
+  # // Social Authentication // #
+  google_sign_in: ^5.4.1
+  sign_in_with_apple: ^4.1.0
+
+  # // Cryptographic functions // #
+  crypto:
+
+  # // Network Image // #
+  cached_network_image:
+  carousel_slider: ^4.2.1
+  shimmer:
+
+  # // OTP input // #
+  pin_code_fields: ^7.4.0
+
+  # // Check Network Connectivity // #
+  connectivity_plus: ^3.0.6
+
+  # // Redirect Chrome // #
+
+  webview_flutter: ^2.3.0
+  time_range: ^1.1.0
+  url_launcher: ^6.1.14
+  pay: ^1.1.0
+  flutter_inappwebview: ^5.3.2
+
+
+
+  flutter_paytabs_bridge: ^2.3.5
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+
+flutter:
+  uses-material-design: true
+
+  # // assets declaration // #
+  assets:
+    - assets/icon/
+    - assets/flags/
+    - assets/
+    - assets/font/
+    - assets/font/minion-pro-cufonfonts/
+    - assets/images/
+
+
+# // Font Family Declaration // #
+  fonts:
+    - family: minion-pro-cufonfonts
+      fonts:
+            - asset: assets/font/minion-pro-cufonfonts/MinionPro-Semibold.otf
